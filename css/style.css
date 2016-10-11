@@ -1,0 +1,37 @@
+#main{
+    height: 900px;
+    width: 820px;
+    border: 50px solid #070626;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px #999
+}
+#header{
+    margin-top: -30px;
+}
+.main-title{
+    text-align: center;
+    font-size: 2em;
+    color: #284B75;
+}
+.logo{
+    width: 30%;
+    height: 12%;
+    position: relative;
+    margin-left: 35%;
+}
+.kam > p{
+    color: #8DC63F;
+    padding: 5px;
+    margin: 20px;
+    font-size: 1.3em;
+}
+span{
+    color: #284B75;
+}
+.footer > img{
+    margin: 30px;
+    width: 200px;
+    height: 100px;
+    float: right;
+}
